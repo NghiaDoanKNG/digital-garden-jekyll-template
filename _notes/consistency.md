@@ -1,6 +1,11 @@
 ---
-title: Consistency is key
+title: Kiên định là chìa khóa
+modified: 2020-11-25T22:31:18+07:00
 ---
+
+Thể hiện mình. Thực hiện công việc. Là người kiên trì.
+
+Sau đó hãy xem một lượt [Bản ghi nhớ đầu tiên](/your-first-note){:.internal-link)
 
 Show up. Do the work. Be consistent.
 
