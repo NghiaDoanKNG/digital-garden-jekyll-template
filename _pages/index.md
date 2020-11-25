@@ -3,10 +3,10 @@ layout: page
 title: Home
 id: home
 permalink: /
-modified: 2020-11-25T22:43:21+07:00
+modified: 2020-11-25T22:45:02+07:00
 ---
 
-# Welcome! :seedling::herb::deciduous_tree:
+# Welcome! :seedling:
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
