@@ -3,15 +3,18 @@ layout: page
 title: Home
 id: home
 permalink: /
-modified: 2020-11-26T21:48:42+07:00
+modified: 2020-11-26T22:24:13+07:00
 ---
 
-# Welcome! ,:seedling:
+# Welcome! :seedling:
 
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Chủ đề đầu tiên mà mình muốn đề cập đến là lối sống bền vững, có gặt thì cũng phải có gieo <span style="font-weight: bold">[[Tư duy bền vững]]</span> để bắt đầu chuyến hành trình khám phá của bạn.
+
+</p>
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
-:herb::deciduous_tree:
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
