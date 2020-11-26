@@ -1,6 +1,6 @@
 ---
 title: Kiên định là chìa khóa
-modified: 2020-11-25T22:33:37+07:00
+modified: 2020-11-26T15:56:06+07:00
 ---
 
 Thể hiện mình.
@@ -8,6 +8,7 @@ Thực hiện công việc.
 Là người kiên trì.
 
 Sau đó hãy xem một lượt [Bản ghi nhớ đầu tiên](/your-first-note){:.internal-link}
+
 
 Show up. Do the work. Be consistent.
 
