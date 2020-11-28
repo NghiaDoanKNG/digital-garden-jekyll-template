@@ -3,10 +3,10 @@ layout: page
 title: Home
 id: home
 permalink: /
-modified: 2020-11-28T22:22:03+07:00
+modified: 2020-11-28T22:24:55+07:00
 ---
 
-# Welcome!
+# Welcome!  :seedling:
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Chủ đề đầu tiên mà mình muốn đề cập đến là lối sống bền vững, có gặt thì cũng phải có gieo <span style="font-weight: bold">[[Tư duy bền vững]]</span> để bắt đầu chuyến hành trình khám phá của bạn.
