@@ -1,8 +1,11 @@
 ---
 title: Your first seed
+modified: 2020-11-30T18:28:11+07:00
 ---
 
 ### Welcome!
+
+[[Nhà phố có những điểm trừ nào]]
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
@@ -55,10 +58,10 @@ And of course, images look great:
 
 ### Next steps
 
-**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. ☕
+**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. :coffee:
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). :wave:
 
-Go forth, have fun, and learn new something every day! ✌️
+Go forth, have fun, and learn new something every day! :v:
