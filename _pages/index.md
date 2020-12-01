@@ -3,10 +3,10 @@ layout: page
 title: Home
 id: home
 permalink: /
-modified: 2020-11-30T06:42:13+07:00
+modified: 2020-12-02T03:58:31+07:00
 ---
 
-# Welcome!
+# Welcome! :seedling:
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 <span style="font-weight: bold">[[Nhà phố có những điểm trừ nào]]</span>
