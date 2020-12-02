@@ -1,14 +1,14 @@
 ---
 Title: Hầm Biogas Composite cỡ nhỏ
 created: 2020-12-02T23:00:30+07:00
-modified: 2020-12-02T23:57:57+07:00
+modified: 2020-12-03T00:02:56+07:00
 ---
 
 # Hầm Biogas Composite cỡ nhỏ
 
 [Tham khảo](https://hambiogas.jimdofree.com)
 
-5 000 000 đ
+5 000 000₫
 Giá trên chưa bao gồm vận chuyển và lắp đặt
 Dùng cho hộ gia đình
 Đường kính 1,9m
