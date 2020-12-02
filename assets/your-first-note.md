@@ -1,13 +1,13 @@
 ---
 title: Your first seed
-modified: 2020-12-02T23:41:53+07:00
+modified: 2020-12-02T23:42:32+07:00
 ---
 
 ### Welcome!
 
 [[Nhà phố có những điểm trừ nào]]
 
-[[Hầm Biogas Composite cỡ nhỏ]] hoặc [[Biogas]]
+[Hầm Biogas Composite cỡ nhỏ](/Biogas) hoặc [[Biogas]]
 
 [Dự toán xây dựng nhà](/_notes) hoặc [[House]]
 
