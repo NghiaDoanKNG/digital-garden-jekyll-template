@@ -6,7 +6,7 @@ permalink: /
 modified: 2020-12-02T03:58:31+07:00
 ---
 
-# Welcome! :seedling:
+# Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 <span style="font-weight: bold">[[Nhà phố có những điểm trừ nào]]</span>
