@@ -1,6 +1,6 @@
 ---
 title: Your first seed
-modified: 2020-12-02T23:21:56+07:00
+modified: 2020-12-02T23:27:27+07:00
 ---
 
 ### Welcome!
@@ -8,6 +8,8 @@ modified: 2020-12-02T23:21:56+07:00
 [[Nhà phố có những điểm trừ nào]]
 
 [[Hầm Biogas Composite cỡ nhỏ]] hoặc [[Biogas]]
+
+[[Dự toán xây dựng nhà]] hoặc [[House]]
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
