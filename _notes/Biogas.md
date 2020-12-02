@@ -1,11 +1,11 @@
 ---
 created: 2020-12-02T23:00:30+07:00
-modified: 2020-12-02T23:18:37+07:00
+modified: 2020-12-02T23:19:26+07:00
 ---
 
-# Hầm Biogas Composite
+# Hầm Biogas Composite cỡ nhỏ
 
-[Hầm Biogas Composite cỡ nhỏ](https://hambiogas.jimdofree.com)
+[Tham khảo](https://hambiogas.jimdofree.com)
 
 5 000 000 đ
 Giá trên chưa bao gồm vận chuyển và lắp đặt
