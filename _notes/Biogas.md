@@ -1,7 +1,7 @@
 ---
 Title: Hầm Biogas Composite cỡ nhỏ
 created: 2020-12-02T23:00:30+07:00
-modified: 2020-12-03T00:03:28+07:00
+modified: 2020-12-03T00:06:01+07:00
 ---
 
 # Hầm Biogas Composite cỡ nhỏ
@@ -23,3 +23,5 @@ Thể tích phân giải ~ 2,45 – 3,85m3
 Thể tích chứa khí ~ 1,4 - 0m3
 
 Thể tích chết ~ 0,15m3
+
+Xem thêm [[Tư duy bền vững]]
