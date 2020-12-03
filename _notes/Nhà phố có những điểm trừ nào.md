@@ -1,11 +1,10 @@
 ---
 created: 2020-11-28T22:34:23+07:00
-modified: 2020-11-28T22:37:53+07:00
+modified: 2020-12-03T08:09:50+07:00
 ---
 
-# Nhà phố có những điểm trừ nào?
+# # Những điểm bất tiện của nhà phố thường gặp phải:
 
-## Những điểm bất tiện của nhà phố thường gặp phải:
 Hàng xóm karaoke bất kể ngày đêm, đám ma, sinh nhật cũng ồn ào bất chấp.
 Nhà phố thông thường không có thiết kế cách âm nên dù đóng cửa thì vẫn nghe ồn, ảnh hưởng đến công việc và nghỉ ngơi.
 Chó hàng xóm thường ỉa bậy trước nhà.
